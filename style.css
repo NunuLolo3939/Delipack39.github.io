@@ -730,7 +730,8 @@ a {
 }
 
 .story-photo {
-    max-height: 360px;
+   height: 300px;
+   width: auto;
 }
 
 .story h2,
